@@ -3,4 +3,4 @@
 
 ### Currently this only supports 1080p at 100% scaling
 
-![Cursor Theme Preview](preview.png)
+![Cursor Theme Preview](Preview.png)
