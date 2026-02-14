@@ -6,9 +6,9 @@
 
 
 # How To Install
+## DO NOT USE THE DOWNLOAD ZIP BUTTON TO DOWNLOAD THE FILES.
 
 #### 1. Clone the repo
-#### DO NOT USE THE DOWNLOAD ZIP BUTTON
 - Go to the releases area on the right sidebar and download the latest release's tar.gz file.
 - You can also use the command `git clone https://github.com/Meelee35/Pixel-MacOS-Cursors.git` and then skip step 2
 
