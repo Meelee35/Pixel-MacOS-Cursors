@@ -8,11 +8,11 @@
 # How To Install
 
 #### 1. Clone the repo
-Click the green "Code" Button that is above the files area and click "Download Zip" or clone using the command `git clone https://github.com/Meelee35/Pixel-MacOS-Cursors.git`
-- If you used the command to clone the repository, you can skip step 2.
+- Go to the releases area on the right sidebar and download the latest release's tar.gz file.
+- You can also use the command `git clone https://github.com/Meelee35/Pixel-MacOS-Cursors.git` and then skip step 2
 
-#### 2. Extract the zip
-Extract the zip file.
+#### 2. Extract the archive
+Extract the .tar.gz file you downloaded.
 
 #### 3. Place the extracted folder into the correct location.
 - For user installation, move the extracted folder to `~/.local/share/icons`. If this doesn't exist, then create it.
