@@ -1,3 +1,4 @@
+## DO NOT USE THE DOWNLOAD ZIP BUTTON TO DOWNLOAD THE FILES.
 ![Cursor Theme Preview](Preview.png)
 
  MacOS-inspired pixel cursors for Linux.
@@ -6,7 +7,6 @@
 
 
 # How To Install
-## DO NOT USE THE DOWNLOAD ZIP BUTTON TO DOWNLOAD THE FILES.
 
 #### 1. Clone the repo
 - Go to the releases area on the right sidebar and download the latest release's tar.gz file.
